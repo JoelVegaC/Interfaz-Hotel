@@ -10,22 +10,6 @@ Patrón MVC: Lógica separada en HotelController.java y Main.java.
 
 Persistencia: Carga y guardado de reservas en archivo XML (reservas.xml).
 
-📁 Estructura del Proyecto
-
-HotelApp/
-├── .vscode/               # Configuración para ejecución en VS Code
-├── src/
-│   └── main/
-│       ├── java/
-│       │   ├── Main.java            # Clase principal (Launcher JavaFX)
-│       │   └── HotelController.java # Lógica e interacción de la GUI
-│       └── resources/
-│           ├── estilos.css          # Hojas de estilo CSS
-│           ├── reservas.xml         # Datos de las reservas
-│           └── vista.fxml           # Interfaz gráfica
-└── README.md
-
-
 🛠️ Requisitos
 
 Java JDK 17 o superior.
